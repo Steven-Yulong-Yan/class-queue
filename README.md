@@ -1,4 +1,4 @@
-# Class-Queue
+# Class Question Queue
 
 This is a queueing application for students to raise questions in class.
 
